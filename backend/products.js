@@ -6,16 +6,16 @@ const products = [
       desc: "6.1-inch display",
       price: 999,
       image:
-        "https://res.cloudinary.com/chaoocharles/image/upload/v1629289889/online-shop/iphone12pro_e09phn.jpg",
+        "https://res.cloudinary.com/dmunlbpb2/image/upload/v1732020232/download_z2vkwf.jpg",
     },
     {
       id: 2,
       name: "iPhone 12",
       brand: "Apple",
-      desc: "5.4-inch mini display",
+      desc: "5.4-inch display",
       price: 699,
       image:
-        "https://res.cloudinary.com/chaoocharles/image/upload/v1629289889/online-shop/iphone12_efhrcp.jpg",
+        "https://res.cloudinary.com/dmunlbpb2/image/upload/v1732020232/download_2_mn0wk2.jpg",
     },
     {
       id: 3,
@@ -24,7 +24,7 @@ const products = [
       desc: "6.5-inch display",
       price: 399,
       image:
-        "https://res.cloudinary.com/chaoocharles/image/upload/v1629289889/online-shop/galaxyS_dvjf5w.png",
+        "https://res.cloudinary.com/dmunlbpb2/image/upload/v1732020232/download_1_b6hnbu.jpg",
     },
   ];
   

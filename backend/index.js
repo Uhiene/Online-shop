@@ -17,7 +17,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/products", (req, res) => {
-    res.send([1,2,3,4]);
+    res.send(products);
 });
 
 app.listen(port, () => {
